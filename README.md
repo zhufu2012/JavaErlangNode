@@ -1,0 +1,2 @@
+# JavaErlangNode
+使用java语言 实现的用于与Erlang节点通信或者远程调用的代码
